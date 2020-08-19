@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\vscode\csharp_new\bin\Debug\netcoreapp3.1\csharp_new.exe
+C:\Users\HP\Documents\vscode\csharp_new\bin\Debug\netcoreapp3.1\csharp_new.deps.json
+C:\Users\HP\Documents\vscode\csharp_new\bin\Debug\netcoreapp3.1\csharp_new.runtimeconfig.json
+C:\Users\HP\Documents\vscode\csharp_new\bin\Debug\netcoreapp3.1\csharp_new.runtimeconfig.dev.json
+C:\Users\HP\Documents\vscode\csharp_new\bin\Debug\netcoreapp3.1\csharp_new.dll
+C:\Users\HP\Documents\vscode\csharp_new\bin\Debug\netcoreapp3.1\csharp_new.pdb
+C:\Users\HP\Documents\vscode\csharp_new\obj\Debug\netcoreapp3.1\csharp_new.csprojAssemblyReference.cache
+C:\Users\HP\Documents\vscode\csharp_new\obj\Debug\netcoreapp3.1\csharp_new.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\vscode\csharp_new\obj\Debug\netcoreapp3.1\csharp_new.AssemblyInfo.cs
+C:\Users\HP\Documents\vscode\csharp_new\obj\Debug\netcoreapp3.1\csharp_new.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\vscode\csharp_new\obj\Debug\netcoreapp3.1\csharp_new.dll
+C:\Users\HP\Documents\vscode\csharp_new\obj\Debug\netcoreapp3.1\csharp_new.pdb
+C:\Users\HP\Documents\vscode\csharp_new\obj\Debug\netcoreapp3.1\csharp_new.genruntimeconfig.cache
