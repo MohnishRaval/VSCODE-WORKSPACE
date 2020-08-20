@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import HighScore from "./HighScore";
 //import PropTypes from "react";
+import "./CSS/style.css";
 
 class Application extends React.Component {
   constructor(props) {
