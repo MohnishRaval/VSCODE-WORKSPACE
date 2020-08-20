@@ -39,10 +39,7 @@ class Application extends React.Component {
       <div>
         <h1>Clicked {count} times!</h1>
         {/* {this.state.ten ? <h3>Beat High score 10!</h3> : null} */}
-        <HighScore
-          ten={this.state.ten}
-          resetcount={(e) => this.resetcount(e)}
-        />
+        <HighScore ten={this.state.ten} resetcount={this.resetcount} />
 
         <span>
           <button onClick={(e) => this.handleClick()}>click button here</button>
